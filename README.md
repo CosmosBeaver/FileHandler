@@ -24,7 +24,9 @@ This project relies on standard Python libraries (tkinter, os, shutil), but you 
 Wherever you choose your "Base Folder", it must contain two sub-folders named exactly input and output:
 
 📁 Your_Base_Folder/
+
 ├── 📁 input/    <-- Place your images (for PDF) or folders (for Zip) in here
+
 └── 📁 output/   <-- The app will drop your finished PDFs and Zips here
 
 --How to Use
