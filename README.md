@@ -4,6 +4,7 @@ File Handler
 
 
 --Features
+
 PDF Compiler (I want PDF! ૮ • ﻌ - ა):
  * Takes all images in your input folder and combines them into a single .pdf.
 
@@ -38,4 +39,4 @@ Wherever you choose your "Base Folder", it must contain two sub-folders named ex
 
  * If making a PDF: You'll be prompted to enter a name for your new file.
 
-Watch the status text at the bottom! It will tell you when the files are processing and when they are successfully finished
+Watch the status text at the bottom, it will tell you when the files are processing and when they are successfully finished
